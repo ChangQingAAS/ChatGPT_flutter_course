@@ -1,6 +1,6 @@
 {
-    "name": "chatgpt_course",
-    "short_name": "chatgpt_course",
+    "name": "chatgpt",
+    "short_name": "chatgpt",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
